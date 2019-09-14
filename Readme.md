@@ -162,7 +162,8 @@ After this sprint, you will have an understanding of
 
 <hr>
 
+## Sprint 7 & 8: Interview Prep & Capstone Project
 
-
+TBD
 
 
