@@ -1,4 +1,4 @@
-## Concept 1: HTML Basics
+## Concept 1: HTML Foundations
 
 ### Introduction
 HTML is the markup that contains all the actual stuff that a web page has. All the text on this page you're reading right now lives inside HTML tags that tell your browser how to order the content on the page. Go on, right click any element on the page and choose "Inspect Element" to open up your browser's Developer Tools and it will show you the structure of the page.
@@ -9,10 +9,13 @@ HTML is the markup that contains all the actual stuff that a web page has. All t
 To consider yourself having learnt and applied HTML these are the basic questions you should have the answers to. If you don't have the answers to these questions, then revisit the material.
 
 Must Know
-* Why do we separate HTML and CSS?
-* What are classes and IDs (and how are they different)?
-* What are elements?
-* What are tags?
+* How is an HTML5 document structured?
+* What are elements/tags?
+* What are element attributes?
+* How do you link to external files?
+* When should you use IDs vs Classes?
+* What attributes are required by image and links for them to be effective and accessible?
+* Where should your CSS live?
 
 ### What you must do
 
