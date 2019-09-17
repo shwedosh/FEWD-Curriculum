@@ -57,9 +57,11 @@ More Practise Code Pens: https://codepen.io/zuraizm/pen/vGDHl/
 
 Objective: Build the personal profile page from scratch.
 
+
 - User Story #1: My portfolio should have a welcome section with an id of welcome-section.
 - User Story #2: The welcome section should have an h1element that contains text.
 - User Story #3: My portfolio should have a projects section with an id of projects.
 - User Story #4: The projects section should contain at least one element with a class of project-tileto hold a project.
 - User Story #5: The projects section should contain at least one link to a project.
+
 
