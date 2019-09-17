@@ -21,3 +21,14 @@ You will be building a static profile page by implementing HTML & CSS concepts l
 - CSS foundations
 - Principles of visual design
 
+### Content Tree
+
+|  Sprint | Concept  | Week  | Topic  |  Day | Difficulty Level  |  Estimated Time |
+|---|---|---|---|---|---|---|
+| 1  | Foundations of HTML  | 1  | HTML Document Structure & Basic HTML Tags  |  1 |  Low |  2 hrs |
+|  1 | Foundations of HTML  |  1 |  Element Attributes | 2  | Medium  |  3 hrs |
+|  1 | Foundations of HTML   | 1  | ID's and Classes  | 3  | Medium  | 4 hrs  |
+|  1 |Foundations of CSS   |  1|  Need of CSS & Linking CSS to HTML | 4  | Low  | 2 hr  |
+| 1  | Foundations of CSS  | 1  | The Box Model  |  5 | Medium  | 4hrs  |
+|  1 | Foundations of CSS  |  1 | CSS Layouts (Flex, Grid, Float)  |6 & 7 |  High | 8 hrs  |
+|  1 | Foundations of CSS  |  2 | CSS Transitions, Animations and Keyframes  |1 |  High | 4 hrs  |

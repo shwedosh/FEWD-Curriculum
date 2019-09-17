@@ -106,7 +106,7 @@ At the end of learning a particular concept, the learner should to acquire a tan
 
 
 ### Concept Onbaording
-It primarily consists list of select resources (3 at the most) that are required to be completed by the learner to have understanding of the concept.
+It primarily consists list of select resources (3 at the most) that are required to be completed by the learner to have understanding of the concept. While onbaording a concept, always Go back to the - Sprint project - summarize why you are learning this concept in corelation with the project - The components that they will build at the end.
 
 ### Tutorial
 These are one or two tutorials which are building upon the onboarded concept.

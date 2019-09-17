@@ -4,9 +4,8 @@
 HTML is the markup that contains all the actual stuff that a web page has. All the text on this page you're reading right now lives inside HTML tags that tell your browser how to order the content on the page. Go on, right click any element on the page and choose "Inspect Element" to open up your browser's Developer Tools and it will show you the structure of the page.
 
 
-
 ### Learning Objectives
-To consider yourself having learnt and applied HTML these are the basic questions you should have the answers to. If you don't have the answers to these questions, then revisit the material.
+To consider yourself having learnt and applied HTML these are the basic questions you should have the answers to. If you don't have the answers to these questions, then revisit the material. 
 
 Must Know
 * How is an HTML5 document structured?
@@ -16,6 +15,15 @@ Must Know
 * When should you use IDs vs Classes?
 * What attributes are required by image and links for them to be effective and accessible?
 * Where should your CSS live?
+
+### What you will be able to build?
+As defined in the sprints objective, you will be building a personal profile page resembling the following mockup at the end of this sprint. 
+![](profile_page.jpg)
+
+However, after completing this concept you will be able to build a basic HTML page which will be the first step towards the larger project. The basic HTML page would look something like follows
+
+![](html_profile.png)
+
 
 ### What you must do
 
