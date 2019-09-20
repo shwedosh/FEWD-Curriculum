@@ -36,7 +36,7 @@ After this sprint, you will have an understanding of
 - How to design a simple web page using HTML and CSS
 
 ### Prerequisites
-Completion of Sprint 1
+Completion of Sprint 0
 
 ### Concepts
 - HTML Foundations
