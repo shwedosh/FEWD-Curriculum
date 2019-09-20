@@ -1,13 +1,6 @@
-- Overview
-- Learning Outcome
-- What you must do?
-- Additional References
-
 ## Overview
 
-If you think of any web page you interact with today, JavaScript is most likely providing the action on the page. JavaScript can be used to change the status of a button when it is clicked on, create a chat window at the bottom of your screen, or even create a web-based game. With modern tools like [Node.js](https://nodejs.org/), JavaScript can now also be used to save data to a database or to create desktop applications. The applications are limitless, and we're excited to see what you'll create. Along with HTML and CSS, JavaScript is one of the three major tools you'll need to understand if you want to build a modern website.
-
-From  [W3C](https://www.w3.org/community/webed/wiki/A_Short_History_of_JavaScript):
+This concept will help you understand about the basic building blocks of JavaScript i.e variables
 
 ## Learning Outcome
 
@@ -53,3 +46,18 @@ This section contains some additional helpful links.
 
 
 #### Assessment Quiz
+
+1. Which of the following is an incorrect way to name a variable in JS?
+- _obj
+- 1obj [Correct Answer]
+- obj
+- ObJ
+
+2. Given: let num = 1 > 2; 
+   What is the value inside the variable 'num'?
+- 1
+- 0
+- true
+- false
+
+3. 
