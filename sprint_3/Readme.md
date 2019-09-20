@@ -20,7 +20,7 @@ After this sprint, you will have an understanding of
 ### What will you build?
 You will be building a responsive clone of the Instagram landing page as shown in the picture below by implementing the HTML, CSS and JavaScript concepts learned. You'll gain insights on building the frontend of a social media site and learning the small interactions such as liking a pic, adding a comment that come along with it.
 
-![Instagram Clone](insta.png)
+![Instagram Clone](images/insta.png)
 
 
 ### Learning Outcomes
@@ -59,6 +59,10 @@ After this sprint, you will have an understanding of
  - Other environments like NodeJS (npm), YARN
  - Best Practices
  - Assignment
+
+## Content Tree
+
+![Content_Tree](images/content_tree.png)
 
 ## Course Content
 ### Week 1
