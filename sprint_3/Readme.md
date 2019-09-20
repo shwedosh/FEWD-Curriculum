@@ -62,7 +62,7 @@ After this sprint, you will have an understanding of
 
 ## Content Tree
 
-![Content_Tree](BJSP/images/content_tree.png)
+![Content_Tree](BJSP/images/content_tree.PNG)
 
 ## Course Content
 ### Week 1
