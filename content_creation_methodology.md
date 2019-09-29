@@ -1,13 +1,23 @@
-# Content Creation Philosophy at GreyAtom
+# Learning Paths At GreyAtom - Mission Statement
 
-## GreyAtom's Perspective on Online Learning
-Learning on MOOCs often leaves the learners disengaged. We have spoken to thousands of aspiring learners who have tried acquiring career pivoting skills in emerging tech on MOOCs and have been unable to keep themselves motivated. The average completion rates on MOOCs are quite low (around 15% approximately). Most MOOC platforms still feel like claustrophobic lecture halls instead of intimate Meetup sessions. The majority of online learning environments are no more than video content containers with quizzes and a discussion forum. These default features force online instructors to use a style of teaching that feels more like shouting to the masses than engaging in meaningful conversations. This presented a challenge and an opportunity: How can we design online learning environments that achieve scale and intimacy? How do we make digital platforms feel as inviting as well-designed physical classrooms?
+Our main focus is the cultivation and sequencing of the best free resources around the internet. We believe wholeheartedly that everything one needs to know to become employed can be found for free online. However, for the average new learner, the vast quantity (and widely varying quality) of resources makes it difficult to make meaningful progress. Therefore, we have devised three basic steps to fix this.
 
-At GreyAtom, we first started with building career focussed learning programs from ground up and ran them in a classroom format for 18 months , where 50% of the time was spent on instruction and 50 % on hands on activities on our coding platform - GLabs. We weaved in mentor led hackathons  as part of the program and saw outcomes go significantly higher when there was high peer collaboration and mentor intervention. 70% of our learners were able to pivot their careers with our programs.
+## Meaningful Learning Path
 
-This gave us a lot of insight into how people learn best and we are now using these insights to move towards an online learning model that delivers the holy trinity of Quality, Scale and Personalization in education. Here is how we are doing it! Our answer is the Flipped MOOC model - blending traditional learning with constant peer interactions and regular mentor interventions.   
+We have information overload. We can watch speakers any time, and, in more places than not, it’s free! We need the interaction, the engagement, and the experience. We can Google anything. We can find infographics on anything. We can find case studies on anything. We can find blog, vlogs, podcasts, tweets, and sometimes snapchats on anything. It’s called the Internet.
+We don’t have a content problem; we have a filter problem, an aggregation problem. We must filter that content through the context of whom we’re trying to connect with and teach.
+Content is what we’re pouring into people. Context is everything that makes those people unique.
+We have created a curriculum that attempts to find the optimal sequencing of information. This curriculum is intended to take someone from knowing literally nothing about web development to a point where they could be employed as a Junior Developer.
+For each topic in the curriculum, we try to find the best free resources on the internet that teach that topic. We will often link multiple resources so as to not rely too much on a single source of information. If good resources cannot be found, we write our own, but we prefer primary links to external sites.
 
-### Learning with a Tribe
+## Work on real problems
+We invent and cultivate projects that give learners a chance to practice what they have learned and to integrate skills along the way. These projects increase information retention, give the learner a chance to experiment, and allow the learner to build an impressive portfolio.
+
+## OpenSource Content
+Additionally, we have made our learning materials completely open source. This means that if anyone comes across a resource that is better than what is currently included in our lessons, that person is free (and encouraged!) to add them, which improves our curriculum over time and helps it to stay up to date.
+   
+
+## Learning with a Tribe
 
 People learn with small tribe of their own - a small group of equally motivated learners. We strike the hard balance between large-group instruction and give people smaller chambers of interaction for on-boarding applied sciences. Peer learning is highly encouraged with the first channel of help always being routed to the peers. 
 
@@ -15,19 +25,13 @@ Research also indicates that peer learning activities typically yield very good 
 
 Moreover self-learning requires quite a bit of discipline and can be frustrating at times especially when stuck. Thus, having a good support system in the form of peers and a mentor helps to stay on track while learning. 
 
-### Interventions with Tribe Leader - Mentor
+## Interventions with Tribe Leader - Mentor
 
 Mentorship has been known to be effective in bridging the knowledge gap and understanding the use of emerging technologies for business. An ideal mentor would be someone who has a working knowledge of emerging technologies and has actually solved business problems using them. These mentors are best placed to guide aspiring learners on the path to upskilling into niche emerging technologies. Mentors hold learners accountable for their learning goals, help learners grow and share practical knowledge that they have accumulated over years of practice. They also advice the learners on how to build their portfolio such that they stand out from the rest of the crowd. Our data says that mentorship improves learning outcomes by almost 5 times! 
 
 With the flipped model, learners come prepared with the content to the sessions, and the learning that happens in those sessions is a level up from traditional learning. With a lot of focus on problem solving instead of just onboarding, learners accumulate skills that actually help them in their professional careers. 
 
-### Learn by Doing - work on real problems
-
-Our inhouse personalized AI powered learning platform - Glabs enables learners to apply what they have learnt by doing hands-on exercises. They will also see their skills grow with personalized skill maps that compare with the recommended baselines giving them actionable insights on what to learn next. 
-
-Since in industry everyone participates in solving problems as a team, we highly encourage team participation through selected hackathons and projects within the platform. With the weekly progress and a host of learner analytics available to the mentor, the mentor exactly knows the prescriptive learning advice to provide to the mentee.  
-
-This is GreyAtom's model for upskilling learners in emerging technologies and it is for these learners that content will be created by global experts. So with the brief overview of GreyAtom's perspective on online education. Let's now dive into the basic principles of instructional design to keep in mind while building self-paced content for the learners. 
+ Let's now dive into the basic principles of instructional design to keep in mind while building self-paced content for the learners. 
 
 <hr>
 
@@ -83,6 +87,7 @@ Even after all the reviews, the real feedback for content comes from beta testin
 <hr>
 
 # Curating Content - The complete journey
+
 We will discuss how to actually curate the content for GreyAtom. These procedures are distilled from the best practices and success we have seen from earlier programs.  
 
 ## Content Hierarchy
@@ -105,7 +110,7 @@ The next logical entity in the program. A sprint contains a set of concepts that
 At the end of learning a particular concept, the learner should to acquire a tangible skill which is demonstrable. Example: Foundations of JavaScript. Each concept should ideally consisy of following learning units.
 
 
-### Concept Onbaording
+### Concept Onboarding
 It primarily consists list of select resources (3 at the most) that are required to be completed by the learner to have understanding of the concept. While onbaording a concept, always Go back to the - Sprint project - summarize why you are learning this concept in corelation with the project - The components that they will build at the end.
 
 ### Tutorial
